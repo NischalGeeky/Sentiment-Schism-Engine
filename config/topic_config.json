@@ -1,0 +1,31 @@
+{
+  "topics": [
+    {
+      "topic_name": "Apple product launch",
+      "keywords": [
+        "iPhone 18",
+        "Apple launch",
+        "Dynamic Island",
+        "Apple event"
+      ]
+    },
+    {
+      "topic_name": "AI and Machine Learning",
+      "keywords": [
+        "artificial intelligence",
+        "ChatGPT",
+        "machine learning",
+        "generative AI"
+      ]
+    },
+    {
+      "topic_name": "Data Privacy",
+      "keywords": [
+        "data privacy",
+        "user tracking",
+        "surveillance",
+        "data breach"
+      ]
+    }
+  ]
+}
